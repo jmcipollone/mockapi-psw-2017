@@ -1,14 +1,72 @@
 {
-  "posts": [
+  "tipo-documento": [
     {
       "id": 1,
-      "title": "hello"
-    }, {
+      "nombre": "DNI"
+    }, 
+    {
       "id": 2,
-      "title": "bye bye"
+      "nombre": "LC"
+    },
+    {
+      "id": 3,
+      "nombre": "LE"
+    },
+    {
+      "id": 4,
+      "nombre": "Pasaporte"
     }    
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "obra-social": [
+    {
+      "id": 1,
+      "nombre": "IOMA"
+    },
+    {
+      "id": 2,
+      "nombre": "OSDE"
+    },
+    {
+      "id": 3,
+      "nombre": "Sancor"
+    }
+  ],
+  "tipo-vivienda": [
+    {
+      "id": 1,
+      "nombre": "Material"
+    },
+    {
+      "id": 2,
+      "nombre": "Chapa"
+    },
+    {
+      "id": 3,
+      "nombre": "Adobe"
+    },
+  ],
+  "tipo-calefaccion": [
+    {
+      "id": 1,
+      "nombre": "Gas"
+    },
+    {
+      "id": 2,
+      "nombre": "Eléctrica"
+    },
+    {
+      "id": 3,
+      "nombre": "Leña"
+    },
+  ],
+  "tipo-agua": [
+    {
+      "id": 1,
+      "nombre": "Corriente"
+    },
+    {
+      "id": 2,
+      "nombre": "Entubada"
+    }
+  ]
 }
