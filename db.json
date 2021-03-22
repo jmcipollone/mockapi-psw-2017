@@ -43,7 +43,7 @@
     {
       "id": 3,
       "nombre": "Adobe"
-    },
+    }
   ],
   "tipo-calefaccion": [
     {
@@ -57,7 +57,7 @@
     {
       "id": 3,
       "nombre": "Leña"
-    },
+    }
   ],
   "tipo-agua": [
     {
